@@ -3,3 +3,6 @@ mountpoints:
     url: "https://rent-march-illustrations-bandwidth.trycloudflare.com/bin/franklin.delivery/Abhi2221/edsl-xwalk/main"
     type: "markup"
     suffix: ".html"
+    credentials:
+      user: "admin"
+      password: "admin"
